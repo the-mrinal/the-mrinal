@@ -8,10 +8,10 @@ I build systems that handle high-volume financial trading and occasionally ship 
 
 - [algoreps](https://github.com/the-mrinal/algoreps) - Spaced repetition platform for mastering DSA. Stop grinding, start retaining.
 - [code-revision-tracker](https://github.com/the-mrinal/code-revision-tracker) - Browser extension that tracks coding practice with spaced repetition across LeetCode, CodeChef & more.
-- [ML-Notebook](https://github.com/the-mrinal/ML-Notebook) - 50+ Jupyter notebooks covering NumPy to Neural Networks, all from scratch.
 
 #### Previously
 
+- [ML-Notebook](https://github.com/the-mrinal/ML-Notebook) - 50+ Jupyter notebooks covering NumPy to Neural Networks, all from scratch.
 - [Algo-Dump](https://github.com/the-mrinal/Algo-Dump) - 130+ algorithm implementations in C++
 - [Subsets-Subarrays-Subsequences](https://github.com/the-mrinal/Subsets-Subarrays-Subsequences) - Recursion & backtracking patterns in C++
 
