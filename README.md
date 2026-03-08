@@ -15,6 +15,13 @@ I build systems that handle high-volume financial trading and occasionally ship 
 - [Algo-Dump](https://github.com/the-mrinal/Algo-Dump) - 130+ algorithm implementations in C++
 - [Subsets-Subarrays-Subsequences](https://github.com/the-mrinal/Subsets-Subarrays-Subsequences) - Recursion & backtracking patterns in C++
 
+#### Writing
+
+- [I Built a Tool to Never Forget What I Learn](https://curiousrhythms.substack.com/p/i-built-a-tool-to-never-forget-what)
+- [The CAP Theorem in Practice — Firestore, Cassandra, and Redis Cluster](https://curiousrhythms.substack.com/p/the-cap-theorem-in-practice-how-firestore-bd1)
+
+More at [mrinal.dev/blog](https://mrinal.dev/blog)
+
 #### Stack
 
 `Go` `Python` `TypeScript` `C++` `FastAPI` `Docker`
