@@ -1,6 +1,6 @@
 ### Hey, I'm Mrinal
 
-Senior Software Engineer at [marketfeed](https://www.marketfeed.com) (YC S21), where I own production microservices across the trading stack — market data, order execution, broker integrations, and trade automation. Recently: integrated the Omnesys trading platform and redesigned broker integrations to be plug-and-play, so onboarding a new broker is configuration, not a project.
+Senior Software Engineer on the Platform team at Applied Systems. Before that I was at [marketfeed](https://www.marketfeed.com) (a YC-backed startup), where I owned production microservices across the trading stack — market data, order execution, broker integrations, and trade automation — including integrating the Omnesys trading platform and redesigning broker integrations to be plug-and-play, so onboarding a new broker was configuration, not a project.
 
 Day-to-day is Go and Python, WebSockets everywhere, and a lot of Redis. I care about latency you can feel, abstractions that don't bleed, and postmortems that don't blame humans.
 
